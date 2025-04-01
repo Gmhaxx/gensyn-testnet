@@ -55,7 +55,7 @@ You need to visit the URL which you will find on your terminal there and then, l
 
 - It will ask you this question : `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` ; You should write `N` there
 - You will see something like this; it indicates that everything is working fine. You can now detach from this screen session.
-- Done forget to save your details
+
 ![Screenshot 2025-04-01 061641](https://github.com/user-attachments/assets/73a3f1ce-d824-4bdc-8df6-5c629a79cffc)
 
 6. **Detach from `screen session`**
