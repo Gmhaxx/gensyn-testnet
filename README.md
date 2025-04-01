@@ -25,6 +25,14 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl scr
 ```bash
 rm -rf rl-swarm && git clone https://github.com/zunxbt/rl-swarm.git && cd rl-swarm
 ```
+- Enable port (UFW/IPTables)
+```bash
+sudo ufw allow 3000/tcp
+sudo systemctl restart ufw
+sudo ufw status
+sudo ss -tulnp | grep 3000
+```
+
 4. **Create a `screen` session**
 ```bash
 screen -S gensyn
