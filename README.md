@@ -2,12 +2,15 @@
 
 ## 💻 System Requirements
 
+
 | Requirement                        | Details                                                                                      |
 |-------------------------------------|---------------------------------------------------------------------------------------------|
 | **CPU Architecture**                | `arm64` or `amd64`                                                                            |
 | **Minimum RAM**                     | 16 GB                                                                                       |
 | **CUDA Devices (optional)**         | `RTX 3090`, `RTX 4090`, `A100`, `H100`                                                  |
 | **Python Version**                  | Python >= 3.10 (For Mac, you may need to upgrade) 
+
+## You can purchase VPS3 here: https://contabo.com/en/
 
 ## 📥 Installation
 
