@@ -85,9 +85,3 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.tgz && tar -x
 - Now use this command `ngrok http 3000`
 - Then click on the following url with ngrok domain and then access gynsyn page and login using email address (✅ working, tested)
 
-
-## Monitor the progress of the swarm and view individual node contributions and participation via the dashboard.
-- Official dashboard: https://dashboard.gensyn.ai/
-- Enter your node name
-
-Note: Wait 1hour before checking your node name on dashboard
