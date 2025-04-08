@@ -83,5 +83,5 @@ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.tgz && tar -x
 - Now go to `Your authtoken` section and then click on "show authtoken" option and then copy that command
 - Now open your VPS in other tab and paste the command
 - Now use this command `ngrok http 3000`
-- Then click on the following url with ngrok domain and then access gynsyn page and login using email address (✅ working, tested)
+- Then click on the following url with ngrok domain and then access gynsyn page and login using email address (✅ working, tested).
 
